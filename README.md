@@ -2,6 +2,7 @@
  
  ![profileviews](https://komarev.com/ghpvc/?username=starrbeery&style=plastic&label=⋮⌗+&color=faf8f3&abbreviated=true)
 
+![image](https://cdn.discordapp.com/attachments/1394835939809034320/1439061941984170046/IMG_4922.gif?ex=6919265f&is=6917d4df&hm=d8f431b68758d2c98ca0359643920857a1e8bed15a8519d5df9235d269179878&)
 
 <h6 align="center">
  𓇻@‎ ‎ ‎ 𝗌𝗍𝖺𝗋𝗋𝖻𝖾𝖾𝗋𝗒
@@ -21,7 +22,7 @@
   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎ 
 
 <h6 align="center">
-𓂃  𝗇𝗈𝖺𝗁 𝖻𝖾𝖾𝗋𝗒 𝗃𝗋  𓏵𓈒 𝗆𝖺𝗋𝗍𝗁𝖺 𝗈’ 𝖽𝗋𝗂𝗌𝖼𝗈𝗅𝗅
+𓂃  𝗇𝗈𝖺𝗁 𝖻𝖾𝖾𝗋𝗒 𝗃𝗋  𓏵𓈒
 
  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nc2xu7jzn4t26bh1k2ljmaeky&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
