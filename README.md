@@ -2,7 +2,7 @@
  
  ![profileviews](https://komarev.com/ghpvc/?username=starrbeery&style=plastic&label=⋮⌗+&color=faf8f3&abbreviated=true)
 
-![image](https://cdn.discordapp.com/attachments/1394835939809034320/1439061941984170046/IMG_4922.gif?ex=691a77df&is=6919265f&hm=2620d8a911034c8d9f49916ffbb5e8dab96af3155a8c5ec1046bc02084a283cd&)
+![Image](https://github.com/user-attachments/assets/7489335c-efc8-40af-aabd-891c3f27e0fd)
 
 <h6 align="center">
  𓇻@‎ ‎ ‎ 𝗌𝗍𝖺𝗋𝗋𝖻𝖾𝖾𝗋𝗒
