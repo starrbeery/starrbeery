@@ -27,5 +27,8 @@
 <h6 align="center">
 𓂃  𝗇𝗈𝖺𝗁 𝖻𝖾𝖾𝗋𝗒 𝗃𝗋  𓏵𓈒
 
- 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nc2xu7jzn4t26bh1k2ljmaeky&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nc2xu7jzn4t26bh1k2ljmaeky&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=831100&bar_color_cover=false">
+  </a>
+</p>
