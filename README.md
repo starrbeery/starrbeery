@@ -15,7 +15,7 @@
 
 ![image](https://cdn.discordapp.com/attachments/1394835939809034320/1419014454531592223/IMG_4060.gif?ex=68d037b1&is=68cee631&hm=e8d98dd827904cf2ff71f1a3d7798c1706f9c37b6746a33b0869ce70cea5c1b8&)
 
-<h6 align="center">
+<h6 CA align="center">
 ࣪⠀ ִ‎   ۫   ּ  ֗  ִ  ‎ ‎   ۪ ‎ ‎ ‎  ⠀̥̾͒‎  ‎ ‎  ‎  ‎          🐏 ۫  ‎ .‎  ㅤ҉ ⃘᰷᰷ི‎  𓏶       ‎       ི ۪‎    ִ     ֗ ִ ۫‎    ִ‎ ‎   ‎ ‎    ࣪  
 
 <h6 align="center">
@@ -29,6 +29,6 @@
 
  <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nc2xu7jzn4t26bh1k2ljmaeky&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=831100&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nc2xu7jzn4t26bh1k2ljmaeky&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=d78147&bar_color_cover=false">
   </a>
 </p>
