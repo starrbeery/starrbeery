@@ -1,6 +1,6 @@
 <h6 align="center">
  
- ![profileviews](https://komarev.com/ghpvc/?username=starrbeery&style=plastic&label=⋮⌗+&color=faf8f3&abbreviated=true)
+ ![profileviews](https://komarev.com/ghpvc/?username=starrbeery&style=plastic&label=⋮⌗+&color=fac68b&abbreviated=true)
 
 ![Image](https://64.media.tumblr.com/861309dd661613c6232b77a0f971a53f/3b254a7b86bb4fec-bb/s400x600/7a768991dec34eabcbb83b6a3bc4c3df02763e97.gifv)
 
