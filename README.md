@@ -2,7 +2,7 @@
  
  ![profileviews](https://komarev.com/ghpvc/?username=starrbeery&style=plastic&label=⋮⌗+&color=faf8f3&abbreviated=true)
 
-![Image](https://github.com/user-attachments/assets/7489335c-efc8-40af-aabd-891c3f27e0fd)
+![Image](https://64.media.tumblr.com/861309dd661613c6232b77a0f971a53f/3b254a7b86bb4fec-bb/s400x600/7a768991dec34eabcbb83b6a3bc4c3df02763e97.gifv)
 
 <h6 align="center">
  𓇻@‎ ‎ ‎ 𝗌𝗍𝖺𝗋𝗋𝖻𝖾𝖾𝗋𝗒
@@ -25,7 +25,7 @@
  𝖯.𝖲 , 𝗂𝖿 𝗂’𝗆 𝖿𝗈𝗅𝗅𝗈𝗐𝗂𝗇𝗀 𝗒𝗈𝗎… 𝗂 𝗍𝗁𝗂𝗇𝗄 𝗒𝗈𝗎’𝗋𝖾 𝖼𝗈𝗈𝗅 /𝗂 𝗅𝗈𝗏𝖾 𝗒𝗈𝗎𝗋 𝗉𝗍 𝗌𝗄𝗂𝗇 !!!! 🧡 🧡
  
 <h6 align="center">
-𓂃  𝗇𝗈𝖺𝗁 𝖻𝖾𝖾𝗋𝗒 𝗃𝗋  𓏵𓈒
+𓂃  𝗒𝗎𝗆𝖾𝗌𝗁𝗂𝗉𝗉𝗂𝗇𝗀 𝗐/ 𝗈𝖿𝖿𝗂𝖼𝖾𝗋 𝗐𝗂𝗅𝗅𝗂𝖾 𝗀𝗂𝗅𝗅𝗂𝗌 𝖿𝗋𝗈𝗆 𝗍𝗁𝖾 𝗋𝗈𝗈𝗄𝗂𝖾𝗌 !  (1972-1974)  𓏵𓈒
 
  <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
