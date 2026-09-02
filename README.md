@@ -32,3 +32,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nc2xu7jzn4t26bh1k2ljmaeky&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=d78147&bar_color_cover=false">
   </a>
 </p>
+
+https://github.com/user-attachments/assets/d8f33cfe-5519-4f59-bddf-fdad76f9abb7
+
+
