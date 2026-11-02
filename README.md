@@ -17,10 +17,11 @@
 <img src="https://cdn.discordapp.com/attachments/1394835939809034320/1419014454531592223/IMG_4060.gif?"
  <br>
  <p align="center">
-<img src="https://github.com/user-attachments/assets/65ebf220-0727-4d9b-9026-cba68eafe549">
+<img
+ src="https://github.com/user-attachments/assets/acd81166-e389-4e63-b204-89035a128ef3"
+  <br>
 
 
-      
 
 
 
