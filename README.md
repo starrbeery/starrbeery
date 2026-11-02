@@ -12,14 +12,10 @@
 
  <h6 align="center">
  ⋮  𝖽𝗇𝖼 𝗆𝗒 𝗌𝗄𝗂𝗇𝗌 ! 𝗅𝗂𝗀𝗁𝗍 𝗂𝗇𝗌𝗉𝗈 𝗂𝗌 𝗈𝗄𝖺𝗒 .
+
   
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1394835939809034320/1419014454531592223/IMG_4060.gif?"
- <br>
- <p align="center">
-<img
- src="https://github.com/user-attachments/assets/acd81166-e389-4e63-b204-89035a128ef3"
-  <br>
+<img src="https://cdn.discordapp.com/attachments/1394835939809034320/1419014454531592223/IMG_4060.gif?"><img width="97" height="57" src="https://github.com/user-attachments/assets/acd81166-e389-4e63-b204-89035a128ef3">
 
 
 
