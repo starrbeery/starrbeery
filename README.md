@@ -15,7 +15,8 @@
 
   
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1394835939809034320/1419014454531592223/IMG_4060.gif?"><img align="left" width="97" height="57" src="https://github.com/user-attachments/assets/acd81166-e389-4e63-b204-89035a128ef3">
+<img src="https://cdn.discordapp.com/attachments/1394835939809034320/1419014454531592223/IMG_4060.gif?">
+ <img width="97" height="57" src="https://github.com/user-attachments/assets/acd81166-e389-4e63-b204-89035a128ef3">
 </p>
 
 
