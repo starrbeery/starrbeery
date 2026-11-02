@@ -16,8 +16,6 @@
   
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/1394835939809034320/1419014454531592223/IMG_4060.gif?">
- <img width="97" height="57" src="https://github.com/user-attachments/assets/acd81166-e389-4e63-b204-89035a128ef3">
-</p>
 
 
 
@@ -29,6 +27,8 @@
   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎ 
 
 <br><img src="https://github.com/user-attachments/assets/4c74be28-daf8-4bf4-bbf7-24b4b26dfee3">
+ <img width="97" height="57" src="https://github.com/user-attachments/assets/acd81166-e389-4e63-b204-89035a128ef3">
+</p>
 
 <h6 align="center">
  𝖯.𝖲 , 𝗂𝖿 𝗂’𝗆 𝖿𝗈𝗅𝗅𝗈𝗐𝗂𝗇𝗀 𝗒𝗈𝗎… 𝗂 𝗍𝗁𝗂𝗇𝗄 𝗒𝗈𝗎’𝗋𝖾 𝖼𝗈𝗈𝗅 /𝗂 𝗅𝗈𝗏𝖾 𝗒𝗈𝗎𝗋 𝗉𝗍 𝗌𝗄𝗂𝗇 !!!! 🧡 🧡
